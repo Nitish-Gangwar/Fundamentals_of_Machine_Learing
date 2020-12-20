@@ -8,14 +8,12 @@ Name     : NITISH GANGWAR
 Roll No. : 203050069
 
 Directory structure is:
-	203050069
-		nn_1.py
+		nn_1.py : is a file which contains the code for training neural network from scratch.
+		LR.py : is a file which contains the code for linear regression made from scratch.
 		Readme.txt
 		
 ########################################################################################################################################
 		
-For the kaggle submission I have used max_epochs as 10000 but ,here in nn_2.py I have kept max_epochs as 200 as 10000 epochs will take lot of time so for checking you can change it.Please update the path to access dataset as for now it's set to my system.
-
 Program can be made to run from spyder, jupyter notebook or google colab etc as usual.
 
 								THANK YOU
